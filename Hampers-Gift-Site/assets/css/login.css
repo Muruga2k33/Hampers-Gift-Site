@@ -1,0 +1,7 @@
+.row{
+    background-color:tan;
+    height: 950px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
